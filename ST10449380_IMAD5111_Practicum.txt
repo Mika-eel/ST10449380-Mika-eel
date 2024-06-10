@@ -1,0 +1,26 @@
+start
+declaration 
+  //array for the minimum temperatures in 1 week
+  num min. temperature in degrees Celsius[7]= 10, 15, ??, ??, ??, 10, 10
+
+  //array for maximum temperatures in 1 week
+  num max. temperature in degrees Celsius[7]= 26, 25, 29, ??, ??, ??, 18
+
+  //array for the days in a week 
+  string days in a week[7]= Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday 
+
+
+  //array for calculating the minimum average temperature  
+    num total min. temperature divided by the number of values 
+      example; 10 values worth R10 
+      string the average would be 10
+   
+  //array for weather conditions in one week 
+  string conditions[7]= Cold, Sunny, Sunny, ??, ??, ??, Raining
+
+
+stop
+
+
+
+
